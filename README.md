@@ -1,4 +1,4 @@
-<img src="/headera.jpg" alt="android" width="900" height="400"/>
+<img src="https://github.com/NewHorizonLatestTech/NewHorizonLatestTech/raw/main/headera.jpg" alt="android" width="900" height="400"/>
 <h1 align="center">Hi 👋, I'm Lala</h1>
 <h3 align="center">I Am A Web Developer
 Android Developer , IOS Developer
